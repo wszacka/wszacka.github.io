@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My super page</title>
     <style>
         body {
           background-color: pink;
@@ -86,6 +87,6 @@
         </tr>
     </table>
     <p class="last">Dziekuje za uwage</p>
-    <img src="megalike.jpg" alt="like">
+    <img src="https://ih1.redbubble.net/image.5005159817.8337/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg" alt="like">
 </body>
 </html>
