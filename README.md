@@ -4,43 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="main.css">
-  <style>
-    body {
-      background-color: pink;
-      text-align: center;
-    }
-    h1 {
-      font-weight: bold;
-      color:red
-    }
-    .last {
-        font-weight: bold;
-        font-size: large;
-        color:orange
-    }
-    a {
-        text-decoration: none;
-        padding: 10px;
-        color:blueviolet
-    }
-    table {
-        margin: auto;
-        border-collapse: collapse;
-    }
-    
-    tr,td,th {
-        border:1px solid black
-    }
-    
-    tr:first-child{
-        background-color: blueviolet;
-    }
-    
-    tr {
-        background-color: wheat;
-    }
-  </style>
+    <style>
+        body {
+          background-color: pink;
+          text-align: center;
+        }
+        h1 {
+          font-weight: bold;
+          color:red
+        }
+        .last {
+            font-weight: bold;
+            font-size: large;
+            color:orange
+        }
+        a {
+            text-decoration: none;
+            padding: 10px;
+            color:blueviolet
+        }
+        table {
+            margin: auto;
+            border-collapse: collapse;
+        }
+        tr,td,th {
+            border:1px solid black
+        }
+        tr:first-child{
+            background-color: blueviolet;
+        }
+        tr {
+            background-color: wheat;
+        }
+    </style>
 </head>
 <body>
     <h1>Witaj na mojej stronie!</h1>
