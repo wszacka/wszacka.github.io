@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="main.css">
+    <title>My super page</title>
   <style>
     body {
       background-color: pink;
@@ -28,15 +27,12 @@
         margin: auto;
         border-collapse: collapse;
     }
-    
     tr,td,th {
         border:1px solid black
     }
-    
     tr:first-child{
         background-color: blueviolet;
     }
-    
     tr {
         background-color: wheat;
     }
@@ -90,6 +86,6 @@
         </tr>
     </table>
     <p class="last">Dziekuje za uwage</p>
-    <img src="megalike.jpg" alt="like">
+    <img src="https://ih1.redbubble.net/image.5005159817.8337/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg" alt="like">
 </body>
 </html>
